@@ -1,4 +1,4 @@
-<h1 align="center">IOS Screens</h1>
+<h1 align="center"> Mobile Screens</h1>
 
 ![ios screen](https://user-images.githubusercontent.com/79747022/138320579-11bd56f7-5dcb-4540-85db-d952249422b7.png)
 
@@ -33,7 +33,7 @@ Click on the image below to set up and contribute to the project or [Click here]
 
 This project exists thanks to all the **people who contribute**.
 
-![Contributors](https://contributors-img.web.app/image?repo=Dezenix/ios-screens)
+![Contributors](https://contributors-img.web.app/image?repo=Dezenix/mobile-screens)
 
 ## ❤️ Code of Conduct
 
