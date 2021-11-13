@@ -6,14 +6,14 @@
 
 <a href="https://github.com/Dezenix/ios-screens"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/Dezenix/ios-screens"><img src="https://img.shields.io/badge/Built%20by-Designers-0059b3"></a>
-<a href="https://github.com/Dezenix/ios-screens"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/Dezenix/ios-screens"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=aqua"></a>
 <a href="https://github.com/smaranjitghose/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
 <a href="https://github.com/Dezenix/ios-screens/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?v=103"></a>
 
 <a href="https://github.com/Dezenix/ios-screens/graphs/contributors"><img src="https://img.shields.io/github/contributors/Dezenix/ios-screens?color=brightgreen"></a>
 <a href="https://github.com/Dezenix/ios-screens/stargazers"><img src="https://img.shields.io/github/stars/Dezenix/ios-screens?color=0059b3"></a>
-<a href="https://github.com/Dezenix/ios-screens/network/members"><img src="https://img.shields.io/github/forks/Dezenix/ios-screens?color=yellow"></a>
-<a href="https://github.com/Dezenix/ios-screens/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/Dezenix/ios-screens?color=yellow"></a>
+<a href="https://github.com/Dezenix/ios-screens/network/members"><img src="https://img.shields.io/github/forks/Dezenix/ios-screens?color=aqua"></a>
+<a href="https://github.com/Dezenix/ios-screens/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/Dezenix/ios-screens?color=aqua"></a>
 <a href="https://github.com/Dezenix/ios-screens/pulls"><img src="https://img.shields.io/github/issues-pr/Dezenix/ios-screens?color=brightgreen"></a>
 <a href="https://github.com/Dezenix/ios-screens/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Dezenix/ios-screens?color=0059b3"></a>
 <!-- <a href="https://github.com/Dezenix/ios-screens/issues"><img src="https://img.shields.io/github/issues/Dezenix/ios-screens?color=0059b3"></a> -->
@@ -21,7 +21,7 @@
   
 </div>
 
-## ⚒️ Contribution Guidelines
+##  ⚒️ Contribution Guidelines
 
 Are we missing any of your favorite features, which you think you can add to it? We invite you to contribute to this project and improve it further.
 
@@ -29,9 +29,9 @@ Click on the image below to set up and contribute to the project or [Click here]
 
 [![setup](https://user-images.githubusercontent.com/79747022/138320947-b57dc0fe-6ef1-4198-90c2-b1390c924d57.png)](https://github.com/Dezenix/.github/blob/main/CONTRIBUTING.md)
 
-## 👨‍💻 Our valuable Contributors
+## 👨‍💻 Our Valuable Contributors
 
-This project exists thanks to all the **people who contribute**.
+This project exist thanks to all the **people who contribute**.
 
 ![Contributors](https://contributors-img.web.app/image?repo=Dezenix/mobile-screens)
 
