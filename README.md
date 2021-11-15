@@ -1,6 +1,7 @@
 <h1 align="center"> Mobile Screens</h1>
 
-![ios screen](https://user-images.githubusercontent.com/79747022/138320579-11bd56f7-5dcb-4540-85db-d952249422b7.png)
+![mobile screens](https://user-images.githubusercontent.com/79747022/141756471-a1dabfed-ba45-4c4b-bd7b-aa9f30a5cd9b.png)
+
 
 <div align="center">
 
