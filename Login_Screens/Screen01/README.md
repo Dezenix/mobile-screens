@@ -3,6 +3,6 @@
 <a align ="center" href="https://github.com/Dezenix/mobile-screens/blob/main/Login_Screens/welcome01"> `  Downlaod Figma File  `</a>
 
 
-![preview-hero_01](https://github.com/Dezenix/mobile-screens/blob/main/Login_Screens/welome01_preview.png)
+![preview-hero_01](https://github.com/Dezenix/mobile-screens/blob/main/Login_Screens/Screen01/welome01_preview.png)
 
 
