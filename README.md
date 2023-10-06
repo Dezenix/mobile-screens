@@ -1,6 +1,6 @@
 <h1 align="center"> Mobile Screens</h1>
 
-![14](https://user-images.githubusercontent.com/79747022/151584636-4013e207-19ab-4128-b9e2-0110cafe4a33.png)
+
 
 
 <div align="center">
@@ -50,5 +50,5 @@ Please note that Open Source Design has a [Contributor Code of Conduct](https://
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) © Dezenix
 
-![t](https://user-images.githubusercontent.com/79747022/151584653-240d7b0c-93d6-46b3-90c1-bbccb89bd80f.png)
+
 
